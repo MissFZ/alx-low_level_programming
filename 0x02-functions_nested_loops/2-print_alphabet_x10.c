@@ -1,10 +1,9 @@
 #include "main.h"
-  /**
-    *main - Entry point
-    *Description: 'prints _putchar 10 times'
-    *Return: always 0 (success)
-    */
-void print_alphabet_x10(void);
+/**
+ * print_alphabet_x10 - prints 10 times the alphabet, in lowercase,
+ * followed by a new line
+ */
+void print_alphabet_x10(void)
 {
 	int i;
 	int j;
